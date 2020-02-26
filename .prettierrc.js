@@ -1,4 +1,5 @@
 module.exports = {
+  proseWrap: never,
   endOfLine: "lf",
   semi: false,
   singleQuote: false,
